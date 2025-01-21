@@ -68,10 +68,3 @@
    ```bash
    git clone https://github.com/your-username/MentorStartAI.git
    cd MentorStartAI
-
-
-## Authors
-
-- **Nada Belahcen**
-- **Aya Cherqi**
-- **Kaoutar Senhaji**
