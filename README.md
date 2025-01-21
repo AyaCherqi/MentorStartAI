@@ -62,6 +62,18 @@
 - Flask
 - Necessary libraries listed in `requirements.txt`
 
+---
+
+## Authors
+
+This project was developed by:
+- **Hiba Benkaddour**
+- **Belahcen Nada**
+- **Cherqi Aya**
+- **Senhaji Kaoutar**
+
+---
+
 ### Installation
 
  Clone the repository:
